@@ -5,4 +5,39 @@
 .blueFont {
   color: #0000ff;
   font-size: 22px;
+
 }
+.yellowFont {
+  color: #edd15d;
+  padding-left: 20px;
+  padding-bottom: 40px;
+}
+.whiteFont {
+  color: #ffffff;
+  width: 500px;
+  font-size: 24px;
+  padding-left: 20px;
+  padding-bottom: 22px;
+  font-style: italic;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.home {
+  background-color: #008b8b;
+  height: 420px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-around; */
+  flex-direction: column;
+}
+.cardTwo {
+background-color: #8A0000;
+height: 420px;
+width: 50%;
+
+}
+
